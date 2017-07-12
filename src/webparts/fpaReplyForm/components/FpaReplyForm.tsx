@@ -6,7 +6,7 @@ import { escape } from '@microsoft/sp-lodash-subset';
 import * as AuthenticationContext from 'adal-angular';
 import adalConfig from '../AdalConfig';
 import { IAdalConfig } from '../../IAdalConfig';
-import '../../WebPartAuthenticationContext';
+import * as junk from '../WebPartAuthenticationContext';
 export default class FpaReplyForm extends React.Component<IFpaReplyFormProps, void> {
   
   public render(): React.ReactElement<IFpaReplyFormProps> {
