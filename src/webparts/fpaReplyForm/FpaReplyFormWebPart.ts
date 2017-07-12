@@ -21,7 +21,10 @@ export default class FpaReplyFormWebPart extends BaseClientSideWebPart<IFpaReply
     const element: React.ReactElement<IFpaReplyFormProps > = React.createElement(
       FpaReplyForm,
       {
-        description: this.properties.description
+        description: this.properties.description,
+          httpClient: this.context.httpClient,
+        title: this.properties.description,
+        webPartId: this.context.instanceId
       }
     );
 
