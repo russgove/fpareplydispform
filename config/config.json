@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/fpaReplyForm/FpaReplyFormWebPart.js",
+      "manifest": "./src/webparts/fpaReplyForm/FpaReplyFormWebPart.manifest.json",
+      "outputPath": "./dist/fpa-reply-form.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "fpaReplyFormStrings": "webparts/fpaReplyForm/loc/{locale}.js"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "fpareplydispform-client-side-solution",
+    "id": "e0ee1f5d-3485-4506-8477-1ebdbf51f78b",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/fpareplydispform.sppkg"
+  }
+}

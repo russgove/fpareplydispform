@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "fpareplydispform",
+    "framework": "react",
+    "version": "1.0.2",
+    "libraryId": "e0ee1f5d-3485-4506-8477-1ebdbf51f78b"
+  }
+}
